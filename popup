@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2487.2">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 24.0px 'LT Saeada'; color: #a2c9bd; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px 'LT Saeada'; -webkit-text-stroke: #000000}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; -webkit-text-stroke: #000000}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'; -webkit-text-stroke: #000000; min-height: 14.0px}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Helvetica Neue'; -webkit-text-stroke: #000000; min-height: 12.0px}
+    p.p7 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px 'Helvetica Neue'; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none; color: #000000}
+    span.s2 {font-kerning: none}
+    span.s3 {font-kerning: none; background-color: #ffffff}
+    span.s4 {font: 11.0px 'Helvetica Neue'; font-kerning: none; color: rgba(0, 0, 0, 0.85); background-color: #a4a4a4; -webkit-text-stroke: 0px rgba(0, 0, 0, 0.85)}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">AI</span><span class="s2">Care</span></p>
+<p class="p2"><span class="s2"></span><br></p>
+<p class="p3"><span class="s2">Keywords:</span></p>
+<p class="p4"><span class="s2">↗ Open in editor</span></p>
+<p class="p5"><span class="s2"></span><br></p>
+<p class="p6"><span class="s3"><span class="Apple-converted-space">      </span></span></p>
+<p class="p7"><span class="s2"></span><br></p>
+<p class="p4"><span class="s4">Save changes</span><span class="s2"> Off Performance mode<span class="Apple-converted-space"> </span></span></p>
+<p class="p4"><span class="s2">Testing mode</span></p>
+<p class="p5"><span class="s2"></span><br></p>
+<p class="p5"><span class="s2"></span><br></p>
+<p class="p4"><span class="s2">Hide keyword examples</span></p>
+<p class="p5"><span class="s2"></span><br></p>
+<p class="p5"><span class="s2"></span><br></p>
+<p class="p4"><span class="s2"><b>Keyword</b> = case-sensitive, can be anywhere in the text<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s2"></span><br></p>
+<p class="p4"><span class="s2"><b>*Keyword</b> = case-sensitive, has to be exactly the same on the webpage<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s2"></span><br></p>
+<p class="p4"><span class="s2"><b>Keyword^</b> = case-insensitive, can be anywhere in the text<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s2"></span><br></p>
+<p class="p4"><span class="s2"><b>*Keyword^</b> = matches Keyword OR keyword<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s2"></span><br></p>
+<p class="p4"><span class="s2"><b>Keyword &gt;&gt;&gt; url.com</b> if you want keyword only to work on specific site you can include &gt;&gt;&gt; + part of the url (e.g. "keyword &gt;&gt;&gt; twitter.com" would only work on websites that contain twitter.com in the url)<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s2"></span><br></p>
+<p class="p4"><span class="s2"><b>{css selector}</b> = hides elements that apply to the css selector. For example {.class} {#id-element}<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s2"></span><br></p>
+<p class="p4"><span class="s2"><b>//</b> Two slashes starts a comment line<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s2"></span><br></p>
+<p class="p4"><span class="s2"><b><i>Use Testing mode to easily observe the effects on the webpage. Hover on highlighted element to see which keyword was found on it.</i></b></span></p>
+<body style="background: rgb(178,214,205);
+background: linear-gradient(90deg, rgba(178,214,205,1) 29%, rgba(166,149,183,1) 78%, rgba(170,169,169,1) 100%);">
+</html>
